@@ -34,3 +34,9 @@ from pipenv shell:
 ```sh
 FLASK_APP=web_app flask run
 ```
+
+## To open database in tableplus
+1. New connection
+2. SQLite
+3. Copy Path from .db file
+4. use that path for the SQLite path
